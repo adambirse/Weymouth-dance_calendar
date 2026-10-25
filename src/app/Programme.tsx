@@ -2,41 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { items, type ProgrammeItem } from "@/data/programme";
-
-const days = [...new Set(items.map((item) => item.date))].map((date) => ({
-  date,
-  label: new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
-    weekday: "short",
-    day: "numeric",
-    timeZone: "UTC",
-  }),
-  heading: new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
-    weekday: "long",
-    day: "numeric",
-    month: "long",
-    timeZone: "UTC",
-  }),
-}));
-
-function formatTime(time: string | null) {
-  if (!time) return "";
-  const [h, m] = time.split(":").map(Number);
-  const suffix = h >= 12 ? "pm" : "am";
-  return `${h % 12 || 12}:${String(m).padStart(2, "0")}${suffix}`;
-}
-
-function Highlight({ text, query }: { text: string; query: string }) {
-  if (!query) return <>{text}</>;
-  const index = text.toLowerCase().indexOf(query);
-  if (index === -1) return <>{text}</>;
-  return (
-    <>
-      {text.slice(0, index)}
-      <mark>{text.slice(index, index + query.length)}</mark>
-      {text.slice(index + query.length)}
-    </>
-  );
-}
+import { days, formatTime, Highlight } from "./shared";
 
 function matches(item: ProgrammeItem, query: string) {
   if (item.kind !== "event") return false;
@@ -67,7 +33,6 @@ export default function Programme() {
           placeholder="Search dancers, groups or classes"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          autoFocus
         />
         <div className="tabs">
           <button className={day === null ? "active" : ""} onClick={() => setDay(null)}>

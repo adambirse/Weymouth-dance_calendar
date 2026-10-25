@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { auth, signOut } from "@/auth";
 import { isAdmin } from "@/lib/allowlist";
-import Programme from "./Programme";
+import Home from "./Home";
 
-export default async function Home() {
+export default async function Page() {
   const session = await auth();
 
   return (
@@ -24,7 +24,7 @@ export default async function Home() {
           </form>
         </div>
       </div>
-      <Programme />
+      <Home />
     </main>
   );
 }

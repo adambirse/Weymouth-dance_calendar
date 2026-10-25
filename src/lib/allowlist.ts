@@ -1,4 +1,4 @@
-import { Redis } from "@upstash/redis";
+import { redis } from "./redis";
 
 const KEY = "allowed-emails";
 
@@ -16,11 +16,6 @@ export function normalise(email: string) {
 // Emails set in Vercel env vars always work, even before storage is connected
 export const envAllowedEmails = parseEmails(process.env.ALLOWED_EMAILS);
 export const adminEmails = parseEmails(process.env.ADMIN_EMAILS);
-
-// Vercel's Upstash integration may name the variables either way
-const url = process.env.KV_REST_API_URL ?? process.env.UPSTASH_REDIS_REST_URL;
-const token = process.env.KV_REST_API_TOKEN ?? process.env.UPSTASH_REDIS_REST_TOKEN;
-const redis = url && token ? new Redis({ url, token }) : null;
 
 export const storageConnected = redis !== null;
 

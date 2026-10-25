@@ -225,3 +225,96 @@ mark {
 .prose a {
   color: var(--accent);
 }
+
+.views {
+  display: flex;
+  margin-top: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.6rem;
+  overflow: hidden;
+}
+
+.views button {
+  flex: 1;
+  border-radius: 0;
+  background: var(--card);
+  color: var(--fg);
+  font-weight: 600;
+}
+
+.views button.active {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.picker {
+  position: relative;
+  margin-top: 1rem;
+}
+
+.suggestions {
+  list-style: none;
+  margin: 0.3rem 0 0;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.suggestions button {
+  width: 100%;
+  text-align: left;
+  background: var(--card);
+  color: var(--fg);
+  border-radius: 0;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.suggestions li:last-child button {
+  border-bottom: 0;
+}
+
+.tag {
+  font-size: 0.75rem;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  padding: 0 0.5rem;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.8rem 0 0;
+}
+
+.chip {
+  background: var(--card);
+  color: var(--fg);
+  border: 1px solid var(--accent);
+  border-radius: 1rem;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.9rem;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 0.4rem 0 0;
+}
+
+.clash {
+  color: #b54708;
+  font-size: 0.85rem;
+  margin: 0.3rem 0 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .clash {
+    color: #fdb022;
+  }
+}
