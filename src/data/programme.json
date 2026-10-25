@@ -1892,5 +1892,226 @@
     "entries": [
       "Lights Up, Curtain Rising"
     ]
+  },
+  {
+    "id": 128,
+    "date": "2026-10-28",
+    "time": "11:20",
+    "kind": "event",
+    "title": "10 years & under Narrative/Character Trio/Quartet",
+    "page": 50,
+    "group": false,
+    "entries": [
+      "Freya Ayittey, Millie Ayittey, Phoebe Bannor",
+      "Isla Rodger, Lottie Neave, Zara Coleman, Mia Dudek"
+    ]
+  },
+  {
+    "id": 129,
+    "date": "2026-10-28",
+    "time": "11:20",
+    "kind": "event",
+    "title": "14 years & under Musical Theatre Trio/Quartet",
+    "page": 50,
+    "group": false,
+    "entries": [
+      "Amelia Marshall, Amy Morris, Latifa Bellamy"
+    ]
+  },
+  {
+    "id": 130,
+    "date": "2026-10-28",
+    "time": "11:30",
+    "kind": "event",
+    "title": "21 years & under Tap Duet",
+    "page": 50,
+    "group": false,
+    "entries": [
+      "Amy Burton, Niamh Bradley",
+      "Ava Samways, Brooke Boardman",
+      "Neo Osborne, Olivia Johnson",
+      "Isabel Taylor, Harriet Budd"
+    ]
+  },
+  {
+    "id": 131,
+    "date": "2026-10-28",
+    "time": "11:30",
+    "kind": "event",
+    "title": "21 years & under Musical Theatre Trio/Quartet",
+    "page": 50,
+    "group": false,
+    "entries": [
+      "Ollie Vaughan, Kitty Sanders, Jessica Grainger",
+      "Chloe Fay, Jeyda Rose, Tori Thomas",
+      "Lily Huntingdon, Ava Wright, Senna Amani Bessaad"
+    ]
+  },
+  {
+    "id": 132,
+    "date": "2026-10-28",
+    "time": "11:50",
+    "kind": "event",
+    "title": "14 years & under Musical Theatre Large Group",
+    "page": 50,
+    "group": true,
+    "entries": [
+      "That Beautiful Sound",
+      "I Had a Dream",
+      "One Short Day",
+      "Just Arrived",
+      "Food Glorious Food",
+      "Stick It To The Man"
+    ]
+  },
+  {
+    "id": 133,
+    "date": "2026-10-28",
+    "time": "12:05",
+    "kind": "event",
+    "title": "10 years & under Musical Theatre Trio/Quartet",
+    "page": 50,
+    "group": false,
+    "entries": [
+      "Francesca Best, Willow Anstey, Violet Burton, Tamsin Best"
+    ]
+  },
+  {
+    "id": 134,
+    "date": "2026-10-28",
+    "time": "12:05",
+    "kind": "event",
+    "title": "10 years & under Classical Ballet Trio/Quartet",
+    "page": 50,
+    "group": false,
+    "entries": [
+      "Florence Capuano, Lottie Neave, Olive Worthington"
+    ]
+  },
+  {
+    "id": 135,
+    "date": "2026-10-28",
+    "time": "12:20",
+    "kind": "event",
+    "title": "14 years & under Tap Large Group",
+    "page": 50,
+    "group": true,
+    "entries": [
+      "Bad To The Bone"
+    ]
+  },
+  {
+    "id": 136,
+    "date": "2026-10-28",
+    "time": "12:25",
+    "kind": "event",
+    "title": "21 years & under Modern Ballet Trio/Quartet",
+    "page": 50,
+    "group": false,
+    "entries": [
+      "Samantha Garton, Emily Kench, Molly Harrison, Lexi Shakespeare",
+      "Scarlet Briggs, Imogen Allan, Dulcie Johnstone",
+      "Chloe Fay, Erin Bates, Lily Potter"
+    ]
+  },
+  {
+    "id": 137,
+    "date": "2026-10-28",
+    "time": "12:25",
+    "kind": "event",
+    "title": "14 years & under Tap Duet",
+    "page": 51,
+    "group": false,
+    "entries": [
+      "Imogen Allan, Penny Roper",
+      "Ivy Cunningham, Thea Gardner",
+      "Lily Woods, Braelyn Tiller",
+      "Bella Capuano, Ella Bozzuto",
+      "Evie Ayittey, Rosie Clark"
+    ]
+  },
+  {
+    "id": 138,
+    "date": "2026-10-28",
+    "time": null,
+    "kind": "note",
+    "title": "Presentation of Awards: Scribes Cup for Cabaret Duet, The Melcombe Award (Tap groups 14 & under), The Mercury Award (Tap groups 21 & under), The Ridgeway Award (Musical Theatre Groups 14 & Under), The Jurassic Award (Modern/Lyrical group 21 & under)",
+    "page": 51
+  },
+  {
+    "id": 139,
+    "date": "2026-10-28",
+    "time": "12:50",
+    "kind": "note",
+    "title": "Lunch break",
+    "page": 51
+  },
+  {
+    "id": 140,
+    "date": "2026-10-28",
+    "time": "13:50",
+    "kind": "event",
+    "title": "21 years & under Lyrical Trio/Quartet",
+    "page": 51,
+    "group": false,
+    "entries": [
+      "Erin Bates, Olivia Johnson, Jeyda Rose"
+    ]
+  },
+  {
+    "id": 141,
+    "date": "2026-10-28",
+    "time": "13:50",
+    "kind": "event",
+    "title": "14 years & under Musical Theatre Duet",
+    "page": 51,
+    "group": false,
+    "entries": [
+      "Emilia Hollands, Tabatha Richey",
+      "Tillie Gale, Esme Welch",
+      "Amy Morris, Latifa Bellamy",
+      "Indy Pope, Chloe Harrison",
+      "Eden Corcoran, Rosie Clark"
+    ]
+  },
+  {
+    "id": 142,
+    "date": "2026-10-28",
+    "time": "13:50",
+    "kind": "event",
+    "title": "21 years & under Contemporary Trio/Quartet",
+    "page": 51,
+    "group": false,
+    "entries": [
+      "Amy Burton, Josie Greenwood, Isabella Delloca",
+      "Chloe Fay, Judith Rubio Ruiz, Lily Potter, Olivia Johnson"
+    ]
+  },
+  {
+    "id": 143,
+    "date": "2026-10-28",
+    "time": "14:15",
+    "kind": "event",
+    "title": "15 & 16 years Musical Theatre",
+    "page": 51,
+    "group": false,
+    "entries": [
+      "Ava Wright",
+      "Samantha Garton",
+      "Dulcie Johnstone",
+      "Jeyda Rose",
+      "Corrah Macey Mitchell",
+      "Bea Cheffers Lilly",
+      "Senna Amani Bessaad",
+      "Mya Westcott Cude",
+      "Amara Chiverton",
+      "Kitty Sanders",
+      "Lily Huntingdon",
+      "Sophie Harrhy",
+      "Ellis Connor Fortune",
+      "Isabella Cuff",
+      "Lucy Dunster",
+      "Emily Kench"
+    ]
   }
 ]

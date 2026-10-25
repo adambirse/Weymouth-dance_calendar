@@ -725,3 +725,72 @@ Red Right Hand
 Anxiety
 EVENT|11:00|21 years & under Tap Small Group
 Lights Up, Curtain Rising
+## page 50 Wednesday
+EVENT|11:20|10 years & under Narrative/Character Trio/Quartet
+Freya Ayittey, Millie Ayittey, Phoebe Bannor
+Isla Rodger, Lottie Neave, Zara Coleman, Mia Dudek
+EVENT|11:20|14 years & under Musical Theatre Trio/Quartet
+Amelia Marshall, Amy Morris, Latifa Bellamy
+EVENT|11:30|21 years & under Tap Duet
+Amy Burton, Niamh Bradley
+Ava Samways, Brooke Boardman
+Neo Osborne, Olivia Johnson
+Isabel Taylor, Harriet Budd
+EVENT|11:30|21 years & under Musical Theatre Trio/Quartet
+Ollie Vaughan, Kitty Sanders, Jessica Grainger
+Chloe Fay, Jeyda Rose, Tori Thomas
+Lily Huntingdon, Ava Wright, Senna Amani Bessaad
+EVENT|11:50|14 years & under Musical Theatre Large Group
+That Beautiful Sound
+I Had a Dream
+One Short Day
+Just Arrived
+Food Glorious Food
+Stick It To The Man
+EVENT|12:05|10 years & under Musical Theatre Trio/Quartet
+Francesca Best, Willow Anstey, Violet Burton, Tamsin Best
+EVENT|12:05|10 years & under Classical Ballet Trio/Quartet
+Florence Capuano, Lottie Neave, Olive Worthington
+EVENT|12:20|14 years & under Tap Large Group
+Bad To The Bone
+EVENT|12:25|21 years & under Modern Ballet Trio/Quartet
+Samantha Garton, Emily Kench, Molly Harrison, Lexi Shakespeare
+Scarlet Briggs, Imogen Allan, Dulcie Johnstone
+Chloe Fay, Erin Bates, Lily Potter
+## page 51 Wednesday
+EVENT|12:25|14 years & under Tap Duet
+Imogen Allan, Penny Roper
+Ivy Cunningham, Thea Gardner
+Lily Woods, Braelyn Tiller
+Bella Capuano, Ella Bozzuto
+Evie Ayittey, Rosie Clark
+NOTE||Presentation of Awards: Scribes Cup for Cabaret Duet, The Melcombe Award (Tap groups 14 & under), The Mercury Award (Tap groups 21 & under), The Ridgeway Award (Musical Theatre Groups 14 & Under), The Jurassic Award (Modern/Lyrical group 21 & under)
+NOTE|12:50|Lunch break
+EVENT|13:50|21 years & under Lyrical Trio/Quartet
+Erin Bates, Olivia Johnson, Jeyda Rose
+EVENT|13:50|14 years & under Musical Theatre Duet
+Emilia Hollands, Tabatha Richey
+Tillie Gale, Esme Welch
+Amy Morris, Latifa Bellamy
+Indy Pope, Chloe Harrison
+Eden Corcoran, Rosie Clark
+EVENT|13:50|21 years & under Contemporary Trio/Quartet
+Amy Burton, Josie Greenwood, Isabella Delloca
+Chloe Fay, Judith Rubio Ruiz, Lily Potter, Olivia Johnson
+EVENT|14:15|15 & 16 years Musical Theatre
+Ava Wright
+Samantha Garton
+Dulcie Johnstone
+Jeyda Rose
+Corrah Macey Mitchell
+Bea Cheffers Lilly
+Senna Amani Bessaad
+Mya Westcott Cude
+Amara Chiverton
+Kitty Sanders
+Lily Huntingdon
+Sophie Harrhy
+Ellis Connor Fortune
+Isabella Cuff
+Lucy Dunster
+Emily Kench
