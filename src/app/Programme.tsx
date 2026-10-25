@@ -1,8 +1,9 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { items, type ProgrammeItem } from "@/data/programme";
+import { classKey, items, type ProgrammeItem } from "@/data/programme";
 import { days, formatTime, Highlight } from "./shared";
+import type { Follows } from "./useFollows";
 
 function matches(item: ProgrammeItem, query: string) {
   if (item.kind !== "event") return false;
@@ -12,7 +13,20 @@ function matches(item: ProgrammeItem, query: string) {
   );
 }
 
-export default function Programme() {
+function FollowButton({ on, onToggle }: { on: boolean; onToggle: () => void }) {
+  return (
+    <button
+      className={`follow ${on ? "on" : ""}`}
+      onClick={onToggle}
+      aria-pressed={on}
+      aria-label={on ? "Remove from my timetable" : "Add to my timetable"}
+    >
+      {on ? "★" : "☆"}
+    </button>
+  );
+}
+
+export default function Programme({ follows, update }: Follows) {
   const [search, setSearch] = useState("");
   const [day, setDay] = useState<string | null>(null);
   const query = search.trim().toLowerCase();
@@ -74,6 +88,18 @@ export default function Programme() {
                     <h3>
                       <Highlight text={item.title} query={query} />
                     </h3>
+                    {follows && (
+                      <FollowButton
+                        on={follows.includes(classKey(item))}
+                        onToggle={() =>
+                          update(
+                            follows.includes(classKey(item))
+                              ? follows.filter((k) => k !== classKey(item))
+                              : [...follows, classKey(item)],
+                          )
+                        }
+                      />
+                    )}
                   </header>
                   <ol>
                     {item.entries?.map((entry, i) => (

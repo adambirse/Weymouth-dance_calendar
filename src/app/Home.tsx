@@ -3,12 +3,14 @@
 import { useEffect, useState } from "react";
 import MyTimetable from "./MyTimetable";
 import Programme from "./Programme";
+import { useFollows } from "./useFollows";
 
 type View = "programme" | "mine";
 const VIEW_KEY = "view";
 
 export default function Home() {
   const [view, setView] = useState<View>("programme");
+  const follows = useFollows();
 
   useEffect(() => {
     try {
@@ -33,7 +35,7 @@ export default function Home() {
           My timetable
         </button>
       </div>
-      {view === "programme" ? <Programme /> : <MyTimetable />}
+      {view === "programme" ? <Programme {...follows} /> : <MyTimetable {...follows} />}
     </>
   );
 }

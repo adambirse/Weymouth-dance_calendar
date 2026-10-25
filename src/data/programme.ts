@@ -20,6 +20,11 @@ export function entryNames(item: ProgrammeItem, entry: string) {
   return item.group ? [entry] : entry.split(",").map((name) => name.trim());
 }
 
+// Following a whole class is stored as "class:<date> <title>", alongside dancer and group names
+export function classKey(item: ProgrammeItem) {
+  return `class:${item.date} ${item.title}`;
+}
+
 export const performers: Performer[] = (() => {
   const byName = new Map<string, Performer>();
   for (const item of items) {
