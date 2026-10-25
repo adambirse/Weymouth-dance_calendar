@@ -1,4 +1,55 @@
 # Format: EVENT|time|title  then entries one per line; NOTE|time|text for breaks/awards
+## page 31 Sunday 25 Oct 2026
+NOTE|09:15|Introductions
+EVENT|09:15|10 years & under Jazz/Modern Trio/Quartet
+Harriet Moore, Millie Hall, Sienna Smith
+Jessica Wright, Dolcie Carvell, Ava Daniel
+Amelie Craft Oinn, Ivy Dyer, Zola Weeks
+EVENT|09:30|10 years & under Novice Ballet
+Beaux Jolly
+Daisy Orbell
+Orla Dixon
+Arabella Broughton
+Mollie Hanson
+Lyra Neels
+Ella Orbell
+EVENT|09:50|11 years & over Novice Modern
+Kaya Atie
+Raya Scrivin
+Mia Edwards
+Jorgie Payne
+Lois Flattery
+Ella Shakespeare
+Claudia Firth
+Elsie Turney
+Jasmine Rose Summers
+Gracie Kemsley
+Enid Rogers
+Effie Littlewood
+Lily Stokes
+Tabitha Finn
+Maria Goncalves
+Eleanor Stoodley
+Louisa Laughlin
+Lacey Ransom
+Olivia Kenny
+Tallulah Thomson
+Sorrell Tindall
+EVENT|10:30|7 & 8 years Global
+Emilia Bien
+Florence Capuano
+Millie Ayittey
+EVENT|10:30|9 & 10 years Global
+Lottie Neave
+Autumn Hau
+Bella Capuano
+EVENT|10:30|7 & 8 years Narrative/Character
+Mila Rose Stamatakis
+Violet Burton
+Lilia Rose Jones
+Ailsa Birse
+Amelie Craft Oinn
+Freya Ayittey
 ## page 32 Sunday 25 Oct 2026
 EVENT|10:30|7 years & under Narrative/Character Duet
 Daisy Dart, Penelope Clifford
@@ -46,6 +97,52 @@ Gracie Kemsley
 Poppy Cooper
 Eleanor Stoodley
 Libby Coughlan
+## page 33 Sunday
+EVENT|12:35|10 years & under Novice Modern
+Beau Binnell
+Evie Hick
+Albert Rogers
+Ivy Neale
+Orla Dixon
+Millie Hall
+Tamsin Best
+Lyra Neels
+Jessica Newton
+Skylar Duffett
+Ava Daniel
+Willow Anstey
+Willow Critchell
+Hallie Rae Lewis
+Beaux Jolly
+EVENT|12:35|10 years & under Global Large Group
+Finnish Winter Fun
+NOTE||Presentation of Awards: The Abbotsbury Award (Classical groups 10 & under), Nursery Rhyme Shield, Novice Ballet Cup, Novice Modern Cup
+NOTE|13:10|Lunch break
+EVENT|14:10|10 years & under Jazz/Modern Small Group
+Spice Up Your Life
+Razz-Ma-Tazz
+Lollipop
+EVENT|14:25|13 & 14 years Tap
+Harriet Budd
+Imogen Allan
+Lily Potter
+Penny Roper
+Elsie Turney
+Neo Osborne
+Poppy Mutter
+Jessica Grainger
+EVENT|14:40|6 years & under Classical Ballet
+Isla Buckler
+Betsy Bevan
+Dusty Hyde
+Harlow Jones
+Tinsley Brooker
+Belle Breeze
+EVENT|14:55|10 years & under Novice Tap
+Millie Hall
+Beau Binnell
+Willow Anstey
+Isabella Piscopo
 ## page 34
 EVENT|14:55|11 years & over Novice Tap
 Ivy Cunningham
@@ -95,7 +192,7 @@ Ritz
 EVENT|16:25|10 years & under Global Duet
 Halle Jones, Isabella Jones
 Lottie Neave, Mia Dudek
-## page ~35/36 Sunday evening
+## page 36 Sunday evening
 EVENT|18:10|13 & 14 years Musical Theatre
 Daisy Crouch
 Chloe Fay
@@ -217,7 +314,7 @@ Lily Huntingdon, Senna Amani Bessaad
 Samantha Garton, Elise Martin
 Lucy Dunster, Ollie Vaughan
 Bea Cheffers Lilly, Ellis Connor Fortune
-## page ~40 Monday afternoon
+## page 40 Monday afternoon
 EVENT|15:40|11 & 12 years Narrative/Character
 Ella Bozzuto
 Braelyn Tiller

@@ -2,6 +2,123 @@
   {
     "id": 1,
     "date": "2026-10-25",
+    "time": "09:15",
+    "kind": "note",
+    "title": "Introductions",
+    "page": 31
+  },
+  {
+    "id": 2,
+    "date": "2026-10-25",
+    "time": "09:15",
+    "kind": "event",
+    "title": "10 years & under Jazz/Modern Trio/Quartet",
+    "page": 31,
+    "group": false,
+    "entries": [
+      "Harriet Moore, Millie Hall, Sienna Smith",
+      "Jessica Wright, Dolcie Carvell, Ava Daniel",
+      "Amelie Craft Oinn, Ivy Dyer, Zola Weeks"
+    ]
+  },
+  {
+    "id": 3,
+    "date": "2026-10-25",
+    "time": "09:30",
+    "kind": "event",
+    "title": "10 years & under Novice Ballet",
+    "page": 31,
+    "group": false,
+    "entries": [
+      "Beaux Jolly",
+      "Daisy Orbell",
+      "Orla Dixon",
+      "Arabella Broughton",
+      "Mollie Hanson",
+      "Lyra Neels",
+      "Ella Orbell"
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2026-10-25",
+    "time": "09:50",
+    "kind": "event",
+    "title": "11 years & over Novice Modern",
+    "page": 31,
+    "group": false,
+    "entries": [
+      "Kaya Atie",
+      "Raya Scrivin",
+      "Mia Edwards",
+      "Jorgie Payne",
+      "Lois Flattery",
+      "Ella Shakespeare",
+      "Claudia Firth",
+      "Elsie Turney",
+      "Jasmine Rose Summers",
+      "Gracie Kemsley",
+      "Enid Rogers",
+      "Effie Littlewood",
+      "Lily Stokes",
+      "Tabitha Finn",
+      "Maria Goncalves",
+      "Eleanor Stoodley",
+      "Louisa Laughlin",
+      "Lacey Ransom",
+      "Olivia Kenny",
+      "Tallulah Thomson",
+      "Sorrell Tindall"
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2026-10-25",
+    "time": "10:30",
+    "kind": "event",
+    "title": "7 & 8 years Global",
+    "page": 31,
+    "group": false,
+    "entries": [
+      "Emilia Bien",
+      "Florence Capuano",
+      "Millie Ayittey"
+    ]
+  },
+  {
+    "id": 6,
+    "date": "2026-10-25",
+    "time": "10:30",
+    "kind": "event",
+    "title": "9 & 10 years Global",
+    "page": 31,
+    "group": false,
+    "entries": [
+      "Lottie Neave",
+      "Autumn Hau",
+      "Bella Capuano"
+    ]
+  },
+  {
+    "id": 7,
+    "date": "2026-10-25",
+    "time": "10:30",
+    "kind": "event",
+    "title": "7 & 8 years Narrative/Character",
+    "page": 31,
+    "group": false,
+    "entries": [
+      "Mila Rose Stamatakis",
+      "Violet Burton",
+      "Lilia Rose Jones",
+      "Ailsa Birse",
+      "Amelie Craft Oinn",
+      "Freya Ayittey"
+    ]
+  },
+  {
+    "id": 8,
+    "date": "2026-10-25",
     "time": "10:30",
     "kind": "event",
     "title": "7 years & under Narrative/Character Duet",
@@ -12,7 +129,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 9,
     "date": "2026-10-25",
     "time": null,
     "kind": "note",
@@ -20,7 +137,7 @@
     "page": 32
   },
   {
-    "id": 3,
+    "id": 10,
     "date": "2026-10-25",
     "time": "11:00",
     "kind": "note",
@@ -28,7 +145,7 @@
     "page": 32
   },
   {
-    "id": 4,
+    "id": 11,
     "date": "2026-10-25",
     "time": "11:15",
     "kind": "event",
@@ -43,7 +160,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 12,
     "date": "2026-10-25",
     "time": "11:15",
     "kind": "event",
@@ -58,7 +175,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 13,
     "date": "2026-10-25",
     "time": "11:40",
     "kind": "event",
@@ -83,7 +200,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 14,
     "date": "2026-10-25",
     "time": "12:05",
     "kind": "event",
@@ -110,7 +227,126 @@
     ]
   },
   {
-    "id": 8,
+    "id": 15,
+    "date": "2026-10-25",
+    "time": "12:35",
+    "kind": "event",
+    "title": "10 years & under Novice Modern",
+    "page": 33,
+    "group": false,
+    "entries": [
+      "Beau Binnell",
+      "Evie Hick",
+      "Albert Rogers",
+      "Ivy Neale",
+      "Orla Dixon",
+      "Millie Hall",
+      "Tamsin Best",
+      "Lyra Neels",
+      "Jessica Newton",
+      "Skylar Duffett",
+      "Ava Daniel",
+      "Willow Anstey",
+      "Willow Critchell",
+      "Hallie Rae Lewis",
+      "Beaux Jolly"
+    ]
+  },
+  {
+    "id": 16,
+    "date": "2026-10-25",
+    "time": "12:35",
+    "kind": "event",
+    "title": "10 years & under Global Large Group",
+    "page": 33,
+    "group": true,
+    "entries": [
+      "Finnish Winter Fun"
+    ]
+  },
+  {
+    "id": 17,
+    "date": "2026-10-25",
+    "time": null,
+    "kind": "note",
+    "title": "Presentation of Awards: The Abbotsbury Award (Classical groups 10 & under), Nursery Rhyme Shield, Novice Ballet Cup, Novice Modern Cup",
+    "page": 33
+  },
+  {
+    "id": 18,
+    "date": "2026-10-25",
+    "time": "13:10",
+    "kind": "note",
+    "title": "Lunch break",
+    "page": 33
+  },
+  {
+    "id": 19,
+    "date": "2026-10-25",
+    "time": "14:10",
+    "kind": "event",
+    "title": "10 years & under Jazz/Modern Small Group",
+    "page": 33,
+    "group": true,
+    "entries": [
+      "Spice Up Your Life",
+      "Razz-Ma-Tazz",
+      "Lollipop"
+    ]
+  },
+  {
+    "id": 20,
+    "date": "2026-10-25",
+    "time": "14:25",
+    "kind": "event",
+    "title": "13 & 14 years Tap",
+    "page": 33,
+    "group": false,
+    "entries": [
+      "Harriet Budd",
+      "Imogen Allan",
+      "Lily Potter",
+      "Penny Roper",
+      "Elsie Turney",
+      "Neo Osborne",
+      "Poppy Mutter",
+      "Jessica Grainger"
+    ]
+  },
+  {
+    "id": 21,
+    "date": "2026-10-25",
+    "time": "14:40",
+    "kind": "event",
+    "title": "6 years & under Classical Ballet",
+    "page": 33,
+    "group": false,
+    "entries": [
+      "Isla Buckler",
+      "Betsy Bevan",
+      "Dusty Hyde",
+      "Harlow Jones",
+      "Tinsley Brooker",
+      "Belle Breeze"
+    ]
+  },
+  {
+    "id": 22,
+    "date": "2026-10-25",
+    "time": "14:55",
+    "kind": "event",
+    "title": "10 years & under Novice Tap",
+    "page": 33,
+    "group": false,
+    "entries": [
+      "Millie Hall",
+      "Beau Binnell",
+      "Willow Anstey",
+      "Isabella Piscopo"
+    ]
+  },
+  {
+    "id": 23,
     "date": "2026-10-25",
     "time": "14:55",
     "kind": "event",
@@ -124,7 +360,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 24,
     "date": "2026-10-25",
     "time": "15:10",
     "kind": "event",
@@ -155,7 +391,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 25,
     "date": "2026-10-25",
     "time": "15:50",
     "kind": "event",
@@ -172,7 +408,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 26,
     "date": "2026-10-25",
     "time": "16:05",
     "kind": "event",
@@ -185,7 +421,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 27,
     "date": "2026-10-25",
     "time": "16:05",
     "kind": "event",
@@ -201,7 +437,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 28,
     "date": "2026-10-25",
     "time": "16:25",
     "kind": "event",
@@ -213,7 +449,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 29,
     "date": "2026-10-25",
     "time": "16:25",
     "kind": "event",
@@ -225,7 +461,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 30,
     "date": "2026-10-25",
     "time": "16:25",
     "kind": "event",
@@ -238,12 +474,12 @@
     ]
   },
   {
-    "id": 16,
+    "id": 31,
     "date": "2026-10-25",
     "time": "18:10",
     "kind": "event",
     "title": "13 & 14 years Musical Theatre",
-    "page": 35,
+    "page": 36,
     "group": false,
     "entries": [
       "Daisy Crouch",
@@ -265,24 +501,24 @@
     ]
   },
   {
-    "id": 17,
+    "id": 32,
     "date": "2026-10-25",
     "time": "19:00",
     "kind": "event",
     "title": "21 years & under Musical Theatre Large Group",
-    "page": 35,
+    "page": 36,
     "group": true,
     "entries": [
       "Once and For All"
     ]
   },
   {
-    "id": 18,
+    "id": 33,
     "date": "2026-10-25",
     "time": "19:00",
     "kind": "event",
     "title": "14 years & under Open Small Group",
-    "page": 35,
+    "page": 36,
     "group": true,
     "entries": [
       "Le Cirque",
@@ -290,23 +526,23 @@
     ]
   },
   {
-    "id": 19,
+    "id": 34,
     "date": "2026-10-25",
     "time": null,
     "kind": "note",
     "title": "Presentation of Awards: The Sandsfoot Award (Musical Theatre Groups 21 & under), Senior Festival Ballet Cup",
-    "page": 35
+    "page": 36
   },
   {
-    "id": 20,
+    "id": 35,
     "date": "2026-10-25",
     "time": "19:40",
     "kind": "note",
     "title": "End of day",
-    "page": 35
+    "page": 36
   },
   {
-    "id": 21,
+    "id": 36,
     "date": "2026-10-26",
     "time": "09:15",
     "kind": "note",
@@ -314,7 +550,7 @@
     "page": 37
   },
   {
-    "id": 22,
+    "id": 37,
     "date": "2026-10-26",
     "time": "09:15",
     "kind": "event",
@@ -331,7 +567,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 38,
     "date": "2026-10-26",
     "time": "09:40",
     "kind": "event",
@@ -346,7 +582,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 39,
     "date": "2026-10-26",
     "time": "09:40",
     "kind": "event",
@@ -359,7 +595,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 40,
     "date": "2026-10-26",
     "time": "09:55",
     "kind": "event",
@@ -374,7 +610,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 41,
     "date": "2026-10-26",
     "time": "09:55",
     "kind": "event",
@@ -388,7 +624,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 42,
     "date": "2026-10-26",
     "time": "10:10",
     "kind": "event",
@@ -407,7 +643,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 43,
     "date": "2026-10-26",
     "time": "10:35",
     "kind": "event",
@@ -419,7 +655,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 44,
     "date": "2026-10-26",
     "time": "10:35",
     "kind": "event",
@@ -431,7 +667,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 45,
     "date": "2026-10-26",
     "time": null,
     "kind": "note",
@@ -439,7 +675,7 @@
     "page": 38
   },
   {
-    "id": 31,
+    "id": 46,
     "date": "2026-10-26",
     "time": "10:45",
     "kind": "note",
@@ -447,7 +683,7 @@
     "page": 38
   },
   {
-    "id": 32,
+    "id": 47,
     "date": "2026-10-26",
     "time": "11:00",
     "kind": "event",
@@ -471,7 +707,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 48,
     "date": "2026-10-26",
     "time": "11:25",
     "kind": "event",
@@ -492,7 +728,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 49,
     "date": "2026-10-26",
     "time": "11:50",
     "kind": "event",
@@ -525,7 +761,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 50,
     "date": "2026-10-26",
     "time": "12:40",
     "kind": "event",
@@ -542,7 +778,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 51,
     "date": "2026-10-26",
     "time": "15:40",
     "kind": "event",
@@ -566,7 +802,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 52,
     "date": "2026-10-26",
     "time": "16:35",
     "kind": "event",
@@ -578,7 +814,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 53,
     "date": "2026-10-26",
     "time": "16:35",
     "kind": "event",
@@ -592,7 +828,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 54,
     "date": "2026-10-26",
     "time": null,
     "kind": "note",
@@ -600,7 +836,7 @@
     "page": 40
   },
   {
-    "id": 40,
+    "id": 55,
     "date": "2026-10-26",
     "time": "16:55",
     "kind": "note",
@@ -608,7 +844,7 @@
     "page": 40
   },
   {
-    "id": 41,
+    "id": 56,
     "date": "2026-10-26",
     "time": "17:25",
     "kind": "event",
@@ -622,7 +858,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 57,
     "date": "2026-10-26",
     "time": "17:40",
     "kind": "event",
@@ -634,7 +870,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 58,
     "date": "2026-10-26",
     "time": "17:40",
     "kind": "event",
@@ -646,7 +882,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 59,
     "date": "2026-10-26",
     "time": "17:40",
     "kind": "event",
@@ -658,7 +894,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 60,
     "date": "2026-10-26",
     "time": "17:55",
     "kind": "event",
@@ -670,7 +906,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 61,
     "date": "2026-10-26",
     "time": "17:55",
     "kind": "event",
@@ -682,7 +918,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 62,
     "date": "2026-10-26",
     "time": "17:55",
     "kind": "event",
@@ -694,7 +930,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 63,
     "date": "2026-10-26",
     "time": "18:10",
     "kind": "event",
@@ -721,7 +957,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 64,
     "date": "2026-10-26",
     "time": "18:45",
     "kind": "event",
@@ -739,7 +975,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 65,
     "date": "2026-10-26",
     "time": "18:45",
     "kind": "event",
@@ -752,7 +988,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 66,
     "date": "2026-10-26",
     "time": "18:45",
     "kind": "event",
@@ -765,7 +1001,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 67,
     "date": "2026-10-26",
     "time": "19:25",
     "kind": "event",
@@ -779,7 +1015,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 68,
     "date": "2026-10-26",
     "time": "19:25",
     "kind": "event",
@@ -795,7 +1031,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 69,
     "date": "2026-10-26",
     "time": "19:25",
     "kind": "event",
@@ -807,7 +1043,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 70,
     "date": "2026-10-26",
     "time": "19:25",
     "kind": "event",
@@ -819,7 +1055,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 71,
     "date": "2026-10-26",
     "time": null,
     "kind": "note",
@@ -827,7 +1063,7 @@
     "page": 42
   },
   {
-    "id": 57,
+    "id": 72,
     "date": "2026-10-26",
     "time": "20:00",
     "kind": "note",
