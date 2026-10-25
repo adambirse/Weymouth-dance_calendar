@@ -19,3 +19,11 @@ npm install
 cp .env.example .env.local  # fill in values
 npm run dev
 ```
+
+## Programme data
+
+The programme is transcribed from photos of the paper programme into `src/data/programme-source.txt` (one `EVENT|HH:MM|Title` line per class followed by its entries). Regenerate the JSON after editing it:
+
+```bash
+python3 scripts/convert-programme.py src/data/programme-source.txt src/data/programme.json
+```
