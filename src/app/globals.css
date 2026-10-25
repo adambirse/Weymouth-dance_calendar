@@ -168,3 +168,51 @@ mark {
   font-size: 0.9rem;
   margin: 0.4rem 0 0.7rem;
 }
+
+.add-user {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0 0;
+}
+
+.add-user input {
+  flex: 1;
+  min-width: 0;
+  font-size: 1rem;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--card);
+  color: var(--fg);
+}
+
+.users {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0;
+}
+
+.users li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+  overflow-wrap: anywhere;
+}
+
+.users .note {
+  margin: 0;
+}
+
+.topbar a {
+  color: var(--accent);
+  font-size: 0.9rem;
+}
+
+.topbar-links {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
