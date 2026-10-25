@@ -3,10 +3,20 @@
 import { useMemo, useState } from "react";
 import { items, type ProgrammeItem } from "@/data/programme";
 
-const days = [
-  { date: "2026-10-25", label: "Sun 25 Oct" },
-  { date: "2026-10-26", label: "Mon 26 Oct" },
-];
+const days = [...new Set(items.map((item) => item.date))].map((date) => ({
+  date,
+  label: new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
+    weekday: "short",
+    day: "numeric",
+    timeZone: "UTC",
+  }),
+  heading: new Date(`${date}T12:00:00Z`).toLocaleDateString("en-GB", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    timeZone: "UTC",
+  }),
+}));
 
 function formatTime(time: string | null) {
   if (!time) return "";
@@ -85,7 +95,7 @@ export default function Programme() {
         if (dayItems.length === 0) return null;
         return (
           <section key={d.date}>
-            <h2>{d.label}</h2>
+            <h2>{d.heading}</h2>
             {dayItems.map((item) =>
               item.kind === "note" ? (
                 <p key={item.id} className="note">

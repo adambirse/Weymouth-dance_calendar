@@ -7,7 +7,10 @@ for line in open(sys.argv[1]):
     if line.startswith("## "):
         m = re.search(r"page ~?(\d+)", line)
         page = int(m.group(1)) if m else page
-        date = "2026-10-26" if page >= 37 else "2026-10-25"
+        # A header naming a date ("Tuesday 27 Oct 2026") starts a new day
+        d = re.search(r"(\d+) Oct (\d{4})", line)
+        if d:
+            date = f"{d.group(2)}-10-{int(d.group(1)):02d}"
         continue
     if line.startswith(("EVENT|", "NOTE|")):
         kind, time, title = line.split("|", 2)

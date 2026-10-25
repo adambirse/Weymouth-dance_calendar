@@ -780,6 +780,110 @@
   {
     "id": 51,
     "date": "2026-10-26",
+    "time": null,
+    "kind": "note",
+    "title": "Presentation of Awards: Intermediate Ballet Cup, Marion Smith Award for Lyrical Modern",
+    "page": 39
+  },
+  {
+    "id": 52,
+    "date": "2026-10-26",
+    "time": "13:10",
+    "kind": "note",
+    "title": "Lunch break",
+    "page": 39
+  },
+  {
+    "id": 53,
+    "date": "2026-10-26",
+    "time": "14:10",
+    "kind": "event",
+    "title": "21 years & under Tap Large Group",
+    "page": 39,
+    "group": true,
+    "entries": [
+      "Paint It Black",
+      "Hit That Jive Jack"
+    ]
+  },
+  {
+    "id": 54,
+    "date": "2026-10-26",
+    "time": "14:25",
+    "kind": "event",
+    "title": "14 years & under Tap Small Group",
+    "page": 39,
+    "group": true,
+    "entries": [
+      "Road To Hell",
+      "Shake",
+      "They Don't Care About Us",
+      "Lyricism"
+    ]
+  },
+  {
+    "id": 55,
+    "date": "2026-10-26",
+    "time": "14:45",
+    "kind": "event",
+    "title": "15 & 16 years Jazz/Modern (Part A)",
+    "page": 39,
+    "group": false,
+    "entries": [
+      "Ellis Connor Fortune",
+      "Jade Ryder",
+      "Dulcie Johnstone",
+      "Erin Bates",
+      "Samantha Garton",
+      "Isabel Taylor",
+      "Kitty Sanders",
+      "Olivia Johnson",
+      "Lily Huntingdon",
+      "Bea Cheffers Lilly",
+      "Lexi Shakespeare"
+    ]
+  },
+  {
+    "id": 56,
+    "date": "2026-10-26",
+    "time": "15:15",
+    "kind": "event",
+    "title": "15 & 16 years Jazz/Modern (Part B)",
+    "page": 39,
+    "group": false,
+    "entries": [
+      "Lucy Allan",
+      "Ruby Dean",
+      "Lucianna Lyle",
+      "Emily Kench",
+      "Harley Anstey",
+      "Emily Tebb",
+      "Senna Amani Bessaad",
+      "Olive Hassan",
+      "Amelia Jones",
+      "Ava Samways",
+      "Ava Wright"
+    ]
+  },
+  {
+    "id": 57,
+    "date": "2026-10-26",
+    "time": "15:15",
+    "kind": "event",
+    "title": "17 years & over Jazz/Modern",
+    "page": 39,
+    "group": false,
+    "entries": [
+      "Fenella Milner",
+      "Matilda Roberts",
+      "Evie Withers",
+      "Tia Hawkins",
+      "Brooke Boardman"
+    ]
+  },
+  {
+    "id": 58,
+    "date": "2026-10-26",
     "time": "15:40",
     "kind": "event",
     "title": "11 & 12 years Narrative/Character",
@@ -802,7 +906,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 59,
     "date": "2026-10-26",
     "time": "16:35",
     "kind": "event",
@@ -814,7 +918,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 60,
     "date": "2026-10-26",
     "time": "16:35",
     "kind": "event",
@@ -828,7 +932,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 61,
     "date": "2026-10-26",
     "time": null,
     "kind": "note",
@@ -836,7 +940,7 @@
     "page": 40
   },
   {
-    "id": 55,
+    "id": 62,
     "date": "2026-10-26",
     "time": "16:55",
     "kind": "note",
@@ -844,7 +948,7 @@
     "page": 40
   },
   {
-    "id": 56,
+    "id": 63,
     "date": "2026-10-26",
     "time": "17:25",
     "kind": "event",
@@ -858,7 +962,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 64,
     "date": "2026-10-26",
     "time": "17:40",
     "kind": "event",
@@ -870,7 +974,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 65,
     "date": "2026-10-26",
     "time": "17:40",
     "kind": "event",
@@ -882,7 +986,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 66,
     "date": "2026-10-26",
     "time": "17:40",
     "kind": "event",
@@ -894,7 +998,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 67,
     "date": "2026-10-26",
     "time": "17:55",
     "kind": "event",
@@ -906,7 +1010,7 @@
     ]
   },
   {
-    "id": 61,
+    "id": 68,
     "date": "2026-10-26",
     "time": "17:55",
     "kind": "event",
@@ -918,7 +1022,7 @@
     ]
   },
   {
-    "id": 62,
+    "id": 69,
     "date": "2026-10-26",
     "time": "17:55",
     "kind": "event",
@@ -930,7 +1034,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 70,
     "date": "2026-10-26",
     "time": "18:10",
     "kind": "event",
@@ -957,7 +1061,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 71,
     "date": "2026-10-26",
     "time": "18:45",
     "kind": "event",
@@ -975,7 +1079,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 72,
     "date": "2026-10-26",
     "time": "18:45",
     "kind": "event",
@@ -988,7 +1092,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 73,
     "date": "2026-10-26",
     "time": "18:45",
     "kind": "event",
@@ -1001,7 +1105,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 74,
     "date": "2026-10-26",
     "time": "19:25",
     "kind": "event",
@@ -1015,7 +1119,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 75,
     "date": "2026-10-26",
     "time": "19:25",
     "kind": "event",
@@ -1031,7 +1135,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 76,
     "date": "2026-10-26",
     "time": "19:25",
     "kind": "event",
@@ -1043,7 +1147,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 77,
     "date": "2026-10-26",
     "time": "19:25",
     "kind": "event",
@@ -1055,7 +1159,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 78,
     "date": "2026-10-26",
     "time": null,
     "kind": "note",
@@ -1063,11 +1167,730 @@
     "page": 42
   },
   {
-    "id": 72,
+    "id": 79,
     "date": "2026-10-26",
     "time": "20:00",
     "kind": "note",
     "title": "End of day",
     "page": 42
+  },
+  {
+    "id": 80,
+    "date": "2026-10-27",
+    "time": "09:15",
+    "kind": "note",
+    "title": "Introductions",
+    "page": 43
+  },
+  {
+    "id": 81,
+    "date": "2026-10-27",
+    "time": "09:15",
+    "kind": "event",
+    "title": "9 & 10 years Jazz/Modern (Part A)",
+    "page": 43,
+    "group": false,
+    "entries": [
+      "Rosie Ellis Allen",
+      "Jessica Wright",
+      "Louisa Barnes",
+      "Mollie Hanson",
+      "Lilly Parsons",
+      "Arabella Broughton",
+      "Autumn Hau",
+      "Dolcie Carvell"
+    ]
+  },
+  {
+    "id": 82,
+    "date": "2026-10-27",
+    "time": "09:35",
+    "kind": "event",
+    "title": "9 & 10 years Jazz/Modern (Part B)",
+    "page": 43,
+    "group": false,
+    "entries": [
+      "Eva Lloyd",
+      "Sarah Rashleigh",
+      "Jessica Wiltshire",
+      "Ava Williams",
+      "Bella Capuano",
+      "Esme Welch",
+      "Hania Adams",
+      "Khaleesiana Jones",
+      "Lola Cranny",
+      "Blossom Barnes",
+      "Bella Savva",
+      "Rosabella Johnson",
+      "Maizie Ball",
+      "Ella Cobb"
+    ]
+  },
+  {
+    "id": 83,
+    "date": "2026-10-27",
+    "time": "10:05",
+    "kind": "event",
+    "title": "13 & 14 years Narrative/Character",
+    "page": 43,
+    "group": false,
+    "entries": [
+      "Grace Ward",
+      "Neo Osborne",
+      "Macie Gay",
+      "Imogen Allan",
+      "Elise Martin",
+      "Bethany Clifford",
+      "Molly Harrison",
+      "Penny Roper",
+      "Elsie Turney",
+      "Lily Woods",
+      "Jessica Oliver",
+      "Millie Mcfadden",
+      "Jessica Haslett",
+      "Isabella Hyra",
+      "Cleo Ladd"
+    ]
+  },
+  {
+    "id": 84,
+    "date": "2026-10-27",
+    "time": "10:40",
+    "kind": "event",
+    "title": "15 & 16 years Global",
+    "page": 43,
+    "group": false,
+    "entries": [
+      "Jeyda Rose",
+      "Ruby Dean",
+      "Kitty Sanders",
+      "Olivia Johnson",
+      "Erin Bates"
+    ]
+  },
+  {
+    "id": 85,
+    "date": "2026-10-27",
+    "time": "10:40",
+    "kind": "event",
+    "title": "17 years & over Global",
+    "page": 43,
+    "group": false,
+    "entries": [
+      "Louisa Frank"
+    ]
+  },
+  {
+    "id": 86,
+    "date": "2026-10-27",
+    "time": null,
+    "kind": "note",
+    "title": "Presentation of Awards: National Festival Cup, Junior Modern Festival Cup",
+    "page": 43
+  },
+  {
+    "id": 87,
+    "date": "2026-10-27",
+    "time": "11:00",
+    "kind": "note",
+    "title": "Break",
+    "page": 44
+  },
+  {
+    "id": 88,
+    "date": "2026-10-27",
+    "time": "11:15",
+    "kind": "event",
+    "title": "11 & 12 years Contemporary",
+    "page": 44,
+    "group": false,
+    "entries": [
+      "Madison Russell",
+      "Brooke Dabbs"
+    ]
+  },
+  {
+    "id": 89,
+    "date": "2026-10-27",
+    "time": "11:15",
+    "kind": "event",
+    "title": "15 & 16 years Contemporary",
+    "page": 44,
+    "group": false,
+    "entries": [
+      "Bea Cheffers Lilly",
+      "Lily Huntingdon",
+      "Lexi Shakespeare",
+      "Judith Rubio Ruiz",
+      "Orla Cooper",
+      "Amelia Jones",
+      "Emily Kench",
+      "Lucy Allan",
+      "Isabel Taylor",
+      "Dulcie Johnstone",
+      "Jade Ryder",
+      "Samantha Garton",
+      "Ava Samways",
+      "Floss Quinn"
+    ]
+  },
+  {
+    "id": 90,
+    "date": "2026-10-27",
+    "time": "11:15",
+    "kind": "event",
+    "title": "17 years & over Contemporary",
+    "page": 44,
+    "group": false,
+    "entries": [
+      "Evie Withers",
+      "Brooke Boardman",
+      "Louisa Frank"
+    ]
+  },
+  {
+    "id": 91,
+    "date": "2026-10-27",
+    "time": "12:10",
+    "kind": "event",
+    "title": "11 & 12 years Tap",
+    "page": 44,
+    "group": false,
+    "entries": [
+      "Jorgie Payne",
+      "Evie Ayittey",
+      "Ella Daley",
+      "Madison Russell",
+      "Ella Bozzuto",
+      "Lidia Holloway",
+      "Braelyn Tiller",
+      "Eden Corcoran",
+      "Rosie Clark",
+      "Isabella Froude"
+    ]
+  },
+  {
+    "id": 92,
+    "date": "2026-10-27",
+    "time": "12:10",
+    "kind": "event",
+    "title": "15 & 16 years Tap",
+    "page": 44,
+    "group": false,
+    "entries": [
+      "Ava Samways",
+      "Olivia Johnson",
+      "Jade Ryder",
+      "Isabel Taylor",
+      "Dulcie Johnstone",
+      "Judith Rubio Ruiz",
+      "Lily Huntingdon"
+    ]
+  },
+  {
+    "id": 93,
+    "date": "2026-10-27",
+    "time": "12:10",
+    "kind": "event",
+    "title": "17 years & over Tap",
+    "page": 44,
+    "group": false,
+    "entries": [
+      "Brooke Boardman",
+      "Louisa Frank"
+    ]
+  },
+  {
+    "id": 94,
+    "date": "2026-10-27",
+    "time": "13:00",
+    "kind": "event",
+    "title": "10 years & under Jazz/Modern Large Group",
+    "page": 44,
+    "group": true,
+    "entries": [
+      "A Whole New World",
+      "Supermarket Sweep"
+    ]
+  },
+  {
+    "id": 95,
+    "date": "2026-10-27",
+    "time": "13:00",
+    "kind": "event",
+    "title": "21 years & under Contemporary Small Group",
+    "page": 45,
+    "group": true,
+    "entries": [
+      "Thank You For Listening"
+    ]
+  },
+  {
+    "id": 96,
+    "date": "2026-10-27",
+    "time": null,
+    "kind": "note",
+    "title": "Presentation of Awards: Intermediate Tap Cup, Senior Tap Festival Cup, Contemporary Festival Cup, The Fleet Award (Classical groups 21 & under), The Moonfleet Award (Modern/Lyrical Groups 10 years & under)",
+    "page": 45
+  },
+  {
+    "id": 97,
+    "date": "2026-10-27",
+    "time": "13:20",
+    "kind": "note",
+    "title": "Lunch break",
+    "page": 45
+  },
+  {
+    "id": 98,
+    "date": "2026-10-27",
+    "time": "14:20",
+    "kind": "event",
+    "title": "13 years & over Modern Ballet",
+    "page": 45,
+    "group": false,
+    "entries": [
+      "Lucy Allan",
+      "Scarlet Briggs",
+      "Olivia Johnson",
+      "Ivy Cunningham",
+      "Louisa Frank",
+      "Ruby Dean",
+      "Imogen Allan",
+      "Erin Bates",
+      "Daisy Beck",
+      "Samantha Garton",
+      "Judith Rubio Ruiz"
+    ]
+  },
+  {
+    "id": 99,
+    "date": "2026-10-27",
+    "time": "14:50",
+    "kind": "event",
+    "title": "10 years & under Musical Theatre Duet",
+    "page": 45,
+    "group": false,
+    "entries": [
+      "Betsy Bevan, Willow Anstey",
+      "Amelie Craft Oinn, Rosie Ellis Allen",
+      "Jessica Wright, Maizie Ball",
+      "Freya Ayittey, Millie Ayittey",
+      "Francesca Best, Tamsin Best",
+      "Autumn Hau, Harriet Moore",
+      "Ella Cobb, Jessica Wiltshire",
+      "Beaux Jolly, Lyra Neels"
+    ]
+  },
+  {
+    "id": 100,
+    "date": "2026-10-27",
+    "time": "15:15",
+    "kind": "event",
+    "title": "21 years & under Lyrical Duet",
+    "page": 45,
+    "group": false,
+    "entries": [
+      "Kitty Sanders, Lucy Dunster",
+      "Amelia Jones, Matilda Roberts",
+      "Floss Quinn, Lydia Ferreira",
+      "Orla Cooper, Tia Hawkins",
+      "Emily Teixeira, Harley Smith",
+      "Lucy Allan, Scarlet Briggs"
+    ]
+  },
+  {
+    "id": 101,
+    "date": "2026-10-27",
+    "time": "15:35",
+    "kind": "event",
+    "title": "9 & 10 years Narrative/Character (Part A)",
+    "page": 45,
+    "group": false,
+    "entries": [
+      "Nuvee Amunugama",
+      "Lilly Parsons",
+      "Sienna York",
+      "Lottie Neave",
+      "Dolcie Carvell",
+      "Jessica Wright",
+      "Ivy Neale"
+    ]
+  },
+  {
+    "id": 102,
+    "date": "2026-10-27",
+    "time": "15:55",
+    "kind": "event",
+    "title": "9 & 10 years Narrative/Character (Part B)",
+    "page": 46,
+    "group": false,
+    "entries": [
+      "Beau Binnell",
+      "Rosabella Johnson",
+      "Lily Payne",
+      "Maizie Ball",
+      "Bella Capuano",
+      "Bella Savva",
+      "Isla Rodger",
+      "Jessica Wiltshire",
+      "Carmen Lavender",
+      "Esme Welch",
+      "Kara Wood",
+      "Ava Williams",
+      "Ella Cobb",
+      "Matilda Reeves"
+    ]
+  },
+  {
+    "id": 103,
+    "date": "2026-10-27",
+    "time": "16:20",
+    "kind": "event",
+    "title": "14 years & under Lyrical Duet",
+    "page": 46,
+    "group": false,
+    "entries": [
+      "Chloe Fay, Neo Osborne",
+      "Oonagh MacDonagh, Mia Edwards",
+      "Ella Bozzuto, Evie Ayittey",
+      "Catherine Rose Hendrie Jones, Neve Woolger",
+      "Bethany Clifford, Cleo Ladd",
+      "Violet Santi Wellman, Violet Burton"
+    ]
+  },
+  {
+    "id": 104,
+    "date": "2026-10-27",
+    "time": "16:20",
+    "kind": "event",
+    "title": "14 years & under Lyrical Trio/Quartet",
+    "page": 46,
+    "group": false,
+    "entries": [
+      "Lily Woods, Millie Mcfadden, Tilly Holton Frances"
+    ]
+  },
+  {
+    "id": 105,
+    "date": "2026-10-27",
+    "time": "16:45",
+    "kind": "event",
+    "title": "10 years & under Tap Duet",
+    "page": 46,
+    "group": false,
+    "entries": [
+      "Sienna Smith, Harriet Moore",
+      "Tamsin Best, Willow Anstey",
+      "Audrey Wilson, Autumn Hau",
+      "Millie Hall, Olivia Vincent"
+    ]
+  },
+  {
+    "id": 106,
+    "date": "2026-10-27",
+    "time": "16:45",
+    "kind": "event",
+    "title": "14 years & under Tap Trio/Quartet",
+    "page": 46,
+    "group": false,
+    "entries": [
+      "Bella Capuano, Eden Corcoran, Rosie Clark",
+      "Ella Bozzuto, Evie Ayittey, Cleo Ladd"
+    ]
+  },
+  {
+    "id": 107,
+    "date": "2026-10-27",
+    "time": "16:55",
+    "kind": "event",
+    "title": "21 years & under Jazz/Modern Large Group",
+    "page": 46,
+    "group": true,
+    "entries": [
+      "Where's Wally?"
+    ]
+  },
+  {
+    "id": 108,
+    "date": "2026-10-27",
+    "time": null,
+    "kind": "note",
+    "title": "Presentation of Awards: Junior Character Cup",
+    "page": 46
+  },
+  {
+    "id": 109,
+    "date": "2026-10-27",
+    "time": "17:05",
+    "kind": "note",
+    "title": "Break",
+    "page": 46
+  },
+  {
+    "id": 110,
+    "date": "2026-10-27",
+    "time": "17:35",
+    "kind": "event",
+    "title": "10 years & under Global Trio/Quartet",
+    "page": 46,
+    "group": false,
+    "entries": [
+      "Ailsa Birse, Freya Ayittey, Lottie Neave, Millie Ayittey"
+    ]
+  },
+  {
+    "id": 111,
+    "date": "2026-10-27",
+    "time": "17:35",
+    "kind": "event",
+    "title": "14 years & under Global Trio/Quartet",
+    "page": 47,
+    "group": false,
+    "entries": [
+      "Bella Capuano, Eden Corcoran, Rosie Clark"
+    ]
+  },
+  {
+    "id": 112,
+    "date": "2026-10-27",
+    "time": "17:45",
+    "kind": "event",
+    "title": "15 & 16 years Narrative/Character",
+    "page": 47,
+    "group": false,
+    "entries": [
+      "Lucy Allan",
+      "Ruby Dean",
+      "Bea Cheffers Lilly",
+      "Dulcie Johnstone",
+      "Isabella Cuff",
+      "Ava Samways",
+      "Kitty Sanders",
+      "Orla Cooper",
+      "Isabel Taylor",
+      "Emily Kench",
+      "Lily Huntingdon",
+      "Judith Rubio Ruiz"
+    ]
+  },
+  {
+    "id": 113,
+    "date": "2026-10-27",
+    "time": "17:45",
+    "kind": "event",
+    "title": "17 years & over Narrative/Character",
+    "page": 47,
+    "group": false,
+    "entries": [
+      "Fenella Milner"
+    ]
+  },
+  {
+    "id": 114,
+    "date": "2026-10-27",
+    "time": "18:15",
+    "kind": "event",
+    "title": "11 & 12 years Musical Theatre",
+    "page": 47,
+    "group": false,
+    "entries": [
+      "Tillie Gale",
+      "Lyla Mitchell",
+      "Chloe Harrison",
+      "Lidia Holloway",
+      "Isla Norman",
+      "Immy Johnson",
+      "Elsie Turner",
+      "Isabella Froude",
+      "Isla Hall",
+      "Ella Shakespeare"
+    ]
+  },
+  {
+    "id": 115,
+    "date": "2026-10-27",
+    "time": "18:50",
+    "kind": "event",
+    "title": "13 & 14 years Jazz/Modern (Part A)",
+    "page": 47,
+    "group": false,
+    "entries": [
+      "Jessica Oliver",
+      "Bethany Clifford",
+      "Lily Woods",
+      "Edwards Ozolins",
+      "Poppy Cooper",
+      "Molly Harrison",
+      "Penny Roper",
+      "Grace Ward",
+      "Macie Gay",
+      "Maya Keogh",
+      "Cleo Ladd",
+      "Marcie Wash",
+      "Jessica Haslett"
+    ]
+  },
+  {
+    "id": 116,
+    "date": "2026-10-27",
+    "time": "19:25",
+    "kind": "event",
+    "title": "13 & 14 years Jazz/Modern (Part B)",
+    "page": 47,
+    "group": false,
+    "entries": [
+      "Scarlet Briggs",
+      "Chloe Fay",
+      "Millie Mcfadden",
+      "Daisy Crouch",
+      "Lily Potter",
+      "Ollie Vaughan",
+      "Molly Millin",
+      "Violet Santi Wellman",
+      "Ruby Welch",
+      "Isabella Hyra",
+      "Niamh Meers",
+      "Imogen Allan",
+      "Poppy Haslett",
+      "Poppy Mutter",
+      "Harriet Budd"
+    ]
+  },
+  {
+    "id": 117,
+    "date": "2026-10-27",
+    "time": null,
+    "kind": "note",
+    "title": "Presentation of Awards: Intermediate Modern Cup, Hadfield Gray Memorial Trophy (Junior Song & Dance), Character Festival Cup",
+    "page": 48
+  },
+  {
+    "id": 118,
+    "date": "2026-10-27",
+    "time": "20:00",
+    "kind": "note",
+    "title": "End of day",
+    "page": 48
+  },
+  {
+    "id": 119,
+    "date": "2026-10-28",
+    "time": "09:15",
+    "kind": "note",
+    "title": "Introductions",
+    "page": 49
+  },
+  {
+    "id": 120,
+    "date": "2026-10-28",
+    "time": "09:15",
+    "kind": "event",
+    "title": "14 years & under Jazz/Modern Duet",
+    "page": 49,
+    "group": false,
+    "entries": [
+      "Immy Johnson, Isla Hall",
+      "Effie Littlewood, Madison Middleton Trollope",
+      "Ella Bozzuto, Evie Ayittey",
+      "Tillie Gale, Ella Daley",
+      "Lily Woods, Millie Mcfadden",
+      "Molly Harrison, Chloe Harrison",
+      "Imogen Allan, Penny Roper",
+      "Eden Corcoran, Rosie Clark",
+      "Brooke Dabbs, Olivia Kenny",
+      "Mia Edwards, Violet Santi Wellman",
+      "Elsie Turner, Lola Cranny",
+      "Bethany Clifford, Cleo Ladd",
+      "Poppy Mutter, Maya Keogh",
+      "Oonagh MacDonagh, Violet Santi Wellman"
+    ]
+  },
+  {
+    "id": 121,
+    "date": "2026-10-28",
+    "time": "09:15",
+    "kind": "event",
+    "title": "21 years & under Jazz/Modern Duet",
+    "page": 49,
+    "group": false,
+    "entries": [
+      "Lily Potter, Erin Bates",
+      "Dulcie Johnstone, Lily Huntingdon",
+      "Bea Cheffers Lilly, Harriet Budd",
+      "Judith Rubio Ruiz, Daisy Beck",
+      "Brooke Boardman, Matilda Roberts"
+    ]
+  },
+  {
+    "id": 122,
+    "date": "2026-10-28",
+    "time": "10:10",
+    "kind": "event",
+    "title": "10 years & under Classical Ballet Duet",
+    "page": 49,
+    "group": false,
+    "entries": [
+      "Emilia Bien, Florence Capuano",
+      "Zola Weeks, Amelie Craft Oinn",
+      "Autumn Hau, Harriet Moore",
+      "Lottie Neave, Isla Rodger",
+      "Ella Cobb, Esme Welch"
+    ]
+  },
+  {
+    "id": 123,
+    "date": "2026-10-28",
+    "time": "10:35",
+    "kind": "event",
+    "title": "14 years & under Narrative/Character Trio/Quartet",
+    "page": 49,
+    "group": false,
+    "entries": [
+      "Eden Corcoran, Rosie Clark, Bella Capuano",
+      "Bethany Clifford, Cleo Ladd, Ella Bozzuto"
+    ]
+  },
+  {
+    "id": 124,
+    "date": "2026-10-28",
+    "time": null,
+    "kind": "note",
+    "title": "Presentation of Awards: Tanya Allen Cup for Classical Duets",
+    "page": 49
+  },
+  {
+    "id": 125,
+    "date": "2026-10-28",
+    "time": "10:45",
+    "kind": "note",
+    "title": "Break",
+    "page": 49
+  },
+  {
+    "id": 126,
+    "date": "2026-10-28",
+    "time": "11:00",
+    "kind": "event",
+    "title": "21 years & under Jazz/Modern Small Group",
+    "page": 49,
+    "group": true,
+    "entries": [
+      "Giants",
+      "Red Right Hand",
+      "Anxiety"
+    ]
+  },
+  {
+    "id": 127,
+    "date": "2026-10-28",
+    "time": "11:00",
+    "kind": "event",
+    "title": "21 years & under Tap Small Group",
+    "page": 49,
+    "group": true,
+    "entries": [
+      "Lights Up, Curtain Rising"
+    ]
   }
 ]
