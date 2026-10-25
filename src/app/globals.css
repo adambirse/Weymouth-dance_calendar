@@ -216,3 +216,11 @@ mark {
   gap: 1rem;
   align-items: center;
 }
+
+.prose h2 {
+  margin-top: 1.5rem;
+}
+
+.prose a {
+  color: var(--accent);
+}
